@@ -3,7 +3,7 @@
 <p align="left">
 <a href="https://twitter.com/pari91802" target="_blank"><img height="30" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  
-<a href="[https://www.linkedin.com/in/abhishek-maira/](https://www.linkedin.com/in/pari-singh-264147294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)" target="_blank"><img height="30" src="[https://github.com/parisingh8430/parisingh8430/assets/145854007/6cac6884-06fc-48a3-b385-ff93963efae4](https://icons8.com/icon/8808/linkedin)"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/pari-singh-264147294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img height="30" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
