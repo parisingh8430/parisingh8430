@@ -1,12 +1,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you</h1>
-
 <p align="left">
 <a href="https://twitter.com/pari91802" target="_blank"><img height="30" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-twitter-social-media-round-icon-png-image_6315985.png"></a>
- 
-<a href="https://www.linkedin.com/in/pari-singh-264147294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img height="30" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/pari-singh-264147294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img height="30" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png"></a>
 </p>
-
-<br>
 
 Hi, I'm [Pari Singh](https://www.biodrop.io/parisingh8430), I'm a second-year B.Tech CSE student who loves working with Java and C/C++. I'm also learning about web development using HTML, CSS, and JavaScript.
 <br>
