@@ -13,7 +13,7 @@ Hi, I'm [Pari Singh](https://www.biodrop.io/parisingh8430), I'm a second-year B.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
- - 📫 How to reach me: [pari91802@gmail.com](mailto:pari91802@gmail.com);
+ - 📫 How to reach me: [pari91802@gmail.com](mailto:pari91802@gmail.com)
 
 
 **Languages and Tools:**
