@@ -4,7 +4,8 @@
 <a href="https://www.linkedin.com/in/pari-singh-264147294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img height="30" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png"></a>
 </p>
 
-Hi, I'm [Pari Singh](https://www.biodrop.io/parisingh8430), I'm a second-year B.Tech CSE student who loves working with Java and C/C++. I'm also learning about web development using HTML, CSS, and JavaScript.
+Hi, I'm [Pari Singh](https://www.biodrop.io/parisingh8430), I'm a second-year B.Tech CSE student who loves working with Java and C/C++. 
+I'm also learning about web development using HTML, CSS, and JavaScript.
 <br>
 
 
